@@ -1,3 +1,3 @@
 # pokedex-site
-Site Feito Em Aulas de Programação
+Projeto de desenvolvimento web com HTML, CSS e JAVASCRIPT para simular uma Pokedex
  
