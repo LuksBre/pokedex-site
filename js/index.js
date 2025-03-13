@@ -46,7 +46,7 @@ async function search() {
     if (loading) return;
     let div = document.getElementById("pokemons");
     let search = document.querySelector('input[type="search"]').value;
-    if (search =="") initializepage();
+    if (search == "") initializepage();
     else {
         const pokemon = await searchPokemon();
         div.innerHTML = `<div class="col">
